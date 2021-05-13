@@ -1,5 +1,5 @@
 # dotnet-vaquinha-tests
-Projeto Base para Testes - .Net Core  
+Projeto Base para Testes - .Net Core elaborado durante o Bootcamp da Localiza Labs em mentoria do Eliézer Zarpelão e Marcos Freire. 
 
 ## Digital Innovation One
 
@@ -14,5 +14,3 @@ Projeto Base para Testes - .Net Core
 [Linkedin](https://www.linkedin.com/in/marcos-freire-a73891125/)  
 [Github](https://github.com/marcosfreire) 
 
-## Slides
-[Slides em PDF](TesteNetCore.pdf)
